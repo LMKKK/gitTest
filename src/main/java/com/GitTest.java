@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("Hot-fix 44444444444");
         System.out.println("Master test");
         System.out.println("Hot fix test");
+                System.out.println("remote pull test");
     }
 }
